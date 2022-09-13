@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+body,html{
+    background-image: linear-gradient(to right, #5f72bd, #6069cf, #6b5cdd, #8049e6, #9b23ea);
+}
+.fa-facebook{
+    font-size:2rem;
+}
+.fa-instagram{
+    font-size:2rem;
+}
+.fa-twitter{
+    font-size:2rem;
+}
+.fa-youtube{
+    font-size:2rem;
+}
+.card-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.card{
+    background: transparent;
+    border: none;
+}
+.form-control{
+    background: transparent;
+}
+.form-control::placeholder{
+    color: white;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
