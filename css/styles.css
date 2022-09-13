@@ -8,16 +8,16 @@ body,html{
     background-image: linear-gradient(to right, #5f72bd, #6069cf, #6b5cdd, #8049e6, #9b23ea);
 }
 .fa-facebook{
-    font-size:2rem;
+    font-size:3rem;
 }
 .fa-instagram{
-    font-size:2rem;
+    font-size:3rem;
 }
 .fa-twitter{
-    font-size:2rem;
+    font-size:3rem;
 }
 .fa-youtube{
-    font-size:2rem;
+    font-size:3rem;
 }
 .card-container{
     display: flex;
